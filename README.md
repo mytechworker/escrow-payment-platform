@@ -63,7 +63,7 @@ Access the application at **http://localhost:5173** .
 
 #### Watch the video walkthrough to see the platform in action:
 
-[![Watch the Demo](.assets/stripeConnect.png)](./assets/stripeConnectDemo.mp4)
+[![Watch the Demo](./assets/stripeConnect.png)](./assets/stripeConnectDemo.mp4)
 
 > Click the above image or [download the demo video](./assets/stripeConnectDemo.mp4) to see the application in action.
 
