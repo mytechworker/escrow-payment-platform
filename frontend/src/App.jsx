@@ -25,6 +25,7 @@ function App() {
       <Route path="/payment" element={<Payment />} />
       <Route path="/success" element={<Success />} />
       <Route path="/reauth" element={<Reauth />} />
+{/*       You can make your requirement thia superadminpanel */}
       {/* <Route path="/superadmin/*" element={<SuperadminRoutes />} /> */}
       <Route path="/products" element={<ProductListing />} />
       <Route path="/add-product" element={<AddProduct />} />
