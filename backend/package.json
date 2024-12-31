@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "dev": "nodemon server.js",
-    "build": "tsc",
+    "start": "node init && nodemon index.js",
+    "dev": "node init && nodemon server.js",
+    "build": "node init && tsc",
     "lint": "eslint.",
     "format": "prettier --write.",
     "test": "echo \"Error: no test specified\" && exit 1"
